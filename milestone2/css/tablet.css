@@ -93,3 +93,7 @@ span, li {
     text-decoration: underline;
     margin-bottom: 8px;
 }
+.card {
+        border: 2px solid black;
+        transition: transform 0.2s;
+}

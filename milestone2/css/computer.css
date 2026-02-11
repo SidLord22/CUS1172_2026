@@ -76,5 +76,12 @@
         span, li {
             text-decoration: underline;
         }
-        
+        .card {
+            border: 2px solid black;
+            transition: transform 0.2s;
+        }
+        .card:hover {
+            transform: scale(1.02);
+        }
+
 
